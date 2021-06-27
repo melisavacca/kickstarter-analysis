@@ -5,7 +5,7 @@ Louise is hoping to be a successful playwright, and we are using collected data 
 We are able to compare and find trends between the budget goal for each, whether the goal was reached or was not, what country the script originated from, the timeline for each, and more. 
 
 ### Purpose
-Louise wanted us to use all of this data to help guide her in creating a formnula for success with her play, Fever. We are able to find the trends that resulted in successful plays and compare them to 
+Louise wanted us to use all of this data to help guide her in creating a formula for success with her play, Fever. We are able to find the trends that resulted in successful plays and compare them to 
 the trends that resulted in unsuccessful plays. This will help us give her the best insight on budgeting, timeline, how to raise the most money, when to start fundraising, when to launch, and where to launch. We are able
 to learn from others and use all of the data collected to make her as successful as possible. 
 
